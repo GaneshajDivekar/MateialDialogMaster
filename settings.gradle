@@ -1,0 +1,4 @@
+include ':ganeshdivekarmaterialdialog'
+include ':materialdialogganeshdivekar'
+include ':app'
+rootProject.name = "MateialDialogMaster"
